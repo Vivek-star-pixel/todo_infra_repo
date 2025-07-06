@@ -5,3 +5,6 @@ resource "azurerm_resource_group" "rg_name" {
 
 anscjnwsacnkmmfklaszca
 s  cqwjqfqj
+
+
+xwecc2j
